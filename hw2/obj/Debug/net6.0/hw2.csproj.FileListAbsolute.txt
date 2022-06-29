@@ -1,0 +1,15 @@
+/Users/plohihsergey/Documents/GeekBrains education/3. Знакомство с языками программирования/sem/homework/hw2/bin/Debug/net6.0/hw2
+/Users/plohihsergey/Documents/GeekBrains education/3. Знакомство с языками программирования/sem/homework/hw2/bin/Debug/net6.0/hw2.deps.json
+/Users/plohihsergey/Documents/GeekBrains education/3. Знакомство с языками программирования/sem/homework/hw2/bin/Debug/net6.0/hw2.runtimeconfig.json
+/Users/plohihsergey/Documents/GeekBrains education/3. Знакомство с языками программирования/sem/homework/hw2/bin/Debug/net6.0/hw2.dll
+/Users/plohihsergey/Documents/GeekBrains education/3. Знакомство с языками программирования/sem/homework/hw2/bin/Debug/net6.0/hw2.pdb
+/Users/plohihsergey/Documents/GeekBrains education/3. Знакомство с языками программирования/sem/homework/hw2/obj/Debug/net6.0/hw2.csproj.AssemblyReference.cache
+/Users/plohihsergey/Documents/GeekBrains education/3. Знакомство с языками программирования/sem/homework/hw2/obj/Debug/net6.0/hw2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/plohihsergey/Documents/GeekBrains education/3. Знакомство с языками программирования/sem/homework/hw2/obj/Debug/net6.0/hw2.AssemblyInfoInputs.cache
+/Users/plohihsergey/Documents/GeekBrains education/3. Знакомство с языками программирования/sem/homework/hw2/obj/Debug/net6.0/hw2.AssemblyInfo.cs
+/Users/plohihsergey/Documents/GeekBrains education/3. Знакомство с языками программирования/sem/homework/hw2/obj/Debug/net6.0/hw2.csproj.CoreCompileInputs.cache
+/Users/plohihsergey/Documents/GeekBrains education/3. Знакомство с языками программирования/sem/homework/hw2/obj/Debug/net6.0/hw2.dll
+/Users/plohihsergey/Documents/GeekBrains education/3. Знакомство с языками программирования/sem/homework/hw2/obj/Debug/net6.0/refint/hw2.dll
+/Users/plohihsergey/Documents/GeekBrains education/3. Знакомство с языками программирования/sem/homework/hw2/obj/Debug/net6.0/hw2.pdb
+/Users/plohihsergey/Documents/GeekBrains education/3. Знакомство с языками программирования/sem/homework/hw2/obj/Debug/net6.0/hw2.genruntimeconfig.cache
+/Users/plohihsergey/Documents/GeekBrains education/3. Знакомство с языками программирования/sem/homework/hw2/obj/Debug/net6.0/ref/hw2.dll
