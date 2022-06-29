@@ -1,0 +1,15 @@
+/Users/plohihsergey/Documents/GeekBrains education/3. Знакомство с языками программирования/sem/homework/hw8/bin/Debug/net6.0/hw8
+/Users/plohihsergey/Documents/GeekBrains education/3. Знакомство с языками программирования/sem/homework/hw8/bin/Debug/net6.0/hw8.deps.json
+/Users/plohihsergey/Documents/GeekBrains education/3. Знакомство с языками программирования/sem/homework/hw8/bin/Debug/net6.0/hw8.runtimeconfig.json
+/Users/plohihsergey/Documents/GeekBrains education/3. Знакомство с языками программирования/sem/homework/hw8/bin/Debug/net6.0/hw8.dll
+/Users/plohihsergey/Documents/GeekBrains education/3. Знакомство с языками программирования/sem/homework/hw8/bin/Debug/net6.0/hw8.pdb
+/Users/plohihsergey/Documents/GeekBrains education/3. Знакомство с языками программирования/sem/homework/hw8/obj/Debug/net6.0/hw8.csproj.AssemblyReference.cache
+/Users/plohihsergey/Documents/GeekBrains education/3. Знакомство с языками программирования/sem/homework/hw8/obj/Debug/net6.0/hw8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/plohihsergey/Documents/GeekBrains education/3. Знакомство с языками программирования/sem/homework/hw8/obj/Debug/net6.0/hw8.AssemblyInfoInputs.cache
+/Users/plohihsergey/Documents/GeekBrains education/3. Знакомство с языками программирования/sem/homework/hw8/obj/Debug/net6.0/hw8.AssemblyInfo.cs
+/Users/plohihsergey/Documents/GeekBrains education/3. Знакомство с языками программирования/sem/homework/hw8/obj/Debug/net6.0/hw8.csproj.CoreCompileInputs.cache
+/Users/plohihsergey/Documents/GeekBrains education/3. Знакомство с языками программирования/sem/homework/hw8/obj/Debug/net6.0/hw8.dll
+/Users/plohihsergey/Documents/GeekBrains education/3. Знакомство с языками программирования/sem/homework/hw8/obj/Debug/net6.0/refint/hw8.dll
+/Users/plohihsergey/Documents/GeekBrains education/3. Знакомство с языками программирования/sem/homework/hw8/obj/Debug/net6.0/hw8.pdb
+/Users/plohihsergey/Documents/GeekBrains education/3. Знакомство с языками программирования/sem/homework/hw8/obj/Debug/net6.0/hw8.genruntimeconfig.cache
+/Users/plohihsergey/Documents/GeekBrains education/3. Знакомство с языками программирования/sem/homework/hw8/obj/Debug/net6.0/ref/hw8.dll
